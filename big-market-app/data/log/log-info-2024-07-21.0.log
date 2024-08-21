@@ -1,0 +1,31 @@
+24-07-21.17:50:28.388 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 12236 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-21.17:50:28.390 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-21.17:50:29.225 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-21.17:50:29.228 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-21.17:50:29.259 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-21.17:50:30.598 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-21.17:50:31.224 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-21.17:50:31.300 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-21.17:50:33.842 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-21.17:50:33.900 [main            ] INFO  ApiTest                - Started ApiTest in 5.981 seconds (JVM running for 7.023)
+24-07-21.17:50:34.366 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-21.17:50:34.647 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-21.17:50:34.685 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-21.17:50:34.723 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-21.17:50:34.726 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-21.17:51:40.498 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 27980 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-21.17:51:40.499 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-21.17:51:41.321 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-21.17:51:41.324 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-21.17:51:41.355 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-21.17:51:42.673 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-21.17:51:43.330 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-21.17:51:43.410 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-21.17:51:46.155 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-21.17:51:46.218 [main            ] INFO  ApiTest                - Started ApiTest in 6.147 seconds (JVM running for 7.661)
+24-07-21.17:52:02.226 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-21.17:52:02.546 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-21.17:52:06.531 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-21.18:07:27.768 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m21s241ms682µs800ns).
+24-07-21.18:07:27.819 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-21.18:07:27.824 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.bugstack.infrastructure.persistent.dao.StrategyAwardMapper">
+    <resultMap id="dataMap" type="cn.bugstack.infrastructure.persistent.po.StrategyAward">
+        <id column="id" property="id"></id>
+        <result column="strategy_id" property="strategyId"></result>
+        <result column="award_id" property="awardId"></result>
+        <result column="award_title" property="awardTitle"></result>
+        <result column="award_suptitle" property="awardSuptitle"></result>
+        <result column="award_rate" property="awardRate"></result>
+        <result column="award_count" property="awardCount"></result>
+        <result column="award_count_surplus" property="awardCountSurplus"></result>
+        <result column="rule_models" property="ruleModels"></result>
+        <result column="sort" property="sort"></result>
+        <result column="create_time" property="createTime"></result>
+        <result column="update_time" property="updateTime"></result>
+    </resultMap>
+    <select id="queryStrategyAwardList" resultType="cn.bugstack.infrastructure.persistent.po.StrategyAward">
+          select
+          id,
+          award_id,
+          award_title,
+          strategy_id,
+          award_suptitle,
+          award_rate,
+          award_count,
+          award_count_surplus,
+          rule_models,
+          sort,
+          create_time,
+          update_time,
+          from
+          straetgy_award
+    </select>
+
+        <select id="queryStrategyAwardListByStrategyId"
+            resultType="cn.bugstack.infrastructure.persistent.po.StrategyAward">
+         select
+          id,
+          award_id,
+          award_title,
+          strategy_id,
+          award_suptitle,
+          award_rate,
+          award_count,
+          award_count_surplus,
+          rule_models,
+          sort,
+          create_time,
+          update_time
+          from
+          strategy_award
+          where strategy_id=#{strategyId}
+    </select>
+
+</mapper>

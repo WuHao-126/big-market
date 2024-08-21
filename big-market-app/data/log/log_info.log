@@ -1,0 +1,845 @@
+24-07-24.15:04:10.106 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 32052 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:04:10.108 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:04:10.893 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:04:10.896 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:04:10.927 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+24-07-24.15:04:12.189 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:04:12.790 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:04:12.864 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:04:15.316 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:04:15.363 [main            ] INFO  ApiTest                - Started ApiTest in 5.689 seconds (JVM running for 6.609)
+24-07-24.15:04:15.779 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:04:16.032 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:04:16.069 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:04:16.100 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:04:16.103 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.15:05:29.675 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 18876 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:05:29.676 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:05:30.464 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:05:30.467 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:05:30.495 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+24-07-24.15:05:31.704 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:05:32.324 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:05:32.407 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:05:34.865 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:05:34.918 [main            ] INFO  ApiTest                - Started ApiTest in 5.761 seconds (JVM running for 6.6)
+24-07-24.15:05:35.308 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:05:35.563 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:05:35.597 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:05:35.628 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:05:35.631 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.15:05:49.773 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 22220 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:05:49.775 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:05:50.526 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:05:50.530 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:05:50.558 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.15:05:51.733 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:05:52.342 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:05:52.424 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:05:54.812 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:05:54.863 [main            ] INFO  ApiTest                - Started ApiTest in 5.513 seconds (JVM running for 6.309)
+24-07-24.15:05:55.233 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:05:55.483 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:05:55.517 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:05:55.547 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:05:55.550 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.15:06:05.274 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 10788 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:06:05.275 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:06:06.026 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:06:06.029 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:06:06.056 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+24-07-24.15:06:07.228 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:06:07.817 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:06:07.891 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:06:10.224 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:06:10.275 [main            ] INFO  ApiTest                - Started ApiTest in 5.429 seconds (JVM running for 6.263)
+24-07-24.15:06:10.648 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:06:10.905 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:06:10.938 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:10.971 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:06:10.974 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.15:06:43.514 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 9520 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:06:43.515 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:06:44.283 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:06:44.286 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:06:44.315 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.15:06:45.471 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:06:46.054 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:06:46.134 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:06:48.477 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:06:48.524 [main            ] INFO  ApiTest                - Started ApiTest in 5.423 seconds (JVM running for 6.24)
+24-07-24.15:06:48.885 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:06:49.135 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:06:49.170 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.184 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.189 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.194 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.198 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.204 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.208 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.214 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.218 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.222 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.225 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.229 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.233 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.236 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.240 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.245 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.250 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.255 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.259 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.265 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:06:49.293 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:06:49.314 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.15:07:09.041 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 18532 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:07:09.043 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:07:09.801 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:07:09.803 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:07:09.832 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+24-07-24.15:07:11.020 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:07:11.613 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:07:11.685 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:07:13.991 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:07:14.037 [main            ] INFO  ApiTest                - Started ApiTest in 5.415 seconds (JVM running for 6.228)
+24-07-24.15:07:14.401 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:07:14.648 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:07:14.683 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.698 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.703 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.707 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.712 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.717 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.721 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.725 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.730 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.734 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.739 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.744 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.748 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.750 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.754 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.760 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.764 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.768 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.774 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.778 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.784 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.789 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.795 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.800 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.805 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.809 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.814 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.818 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.823 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.827 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.830 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.834 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.839 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.843 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.847 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.853 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.858 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.864 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.869 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.873 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.878 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.883 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.888 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.893 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.898 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.903 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.908 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.913 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.918 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.923 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.929 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.934 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.939 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.944 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.949 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.953 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.956 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.960 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.963 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.967 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.971 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.975 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.979 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.983 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.987 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.990 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.993 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.996 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:14.999 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.003 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.006 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.009 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.012 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.015 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.018 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.021 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.024 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.028 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.031 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.034 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.037 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.040 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.043 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.046 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.048 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.051 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.055 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.059 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.062 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.065 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.067 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.070 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.073 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.076 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.079 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.082 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.086 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.089 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.093 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.096 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:15.120 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:07:15.131 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.15:07:37.682 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 30592 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:07:37.683 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:07:38.426 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:07:38.428 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:07:38.453 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+24-07-24.15:07:39.605 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:07:40.203 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:07:40.275 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:07:42.593 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:07:42.642 [main            ] INFO  ApiTest                - Started ApiTest in 5.38 seconds (JVM running for 6.169)
+24-07-24.15:07:43.029 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:07:43.296 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:07:43.329 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.342 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.347 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.351 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.356 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.360 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.364 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.367 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.371 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.375 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.379 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.382 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.387 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.390 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.394 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.397 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.401 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.405 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.410 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.415 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.420 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.424 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.429 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.433 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.437 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.441 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.446 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.450 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.453 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.458 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.462 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.465 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.469 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.473 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.476 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.480 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.484 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.489 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.493 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.498 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.502 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.505 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.508 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.512 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.518 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.521 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.525 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.529 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.533 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.539 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.542 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.546 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.551 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.555 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.559 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.563 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.567 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.570 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.574 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.578 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.581 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.584 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.587 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.591 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.595 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.598 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.601 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.604 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.608 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.611 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.615 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.617 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.621 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.624 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.627 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.630 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.633 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.637 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.640 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.644 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.646 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.649 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.652 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.655 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.659 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.662 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.665 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.668 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.670 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.673 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.676 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.678 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.681 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.684 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.687 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.689 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.692 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.694 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.696 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.699 [main            ] INFO  DefaultRaffleStrategy  - 抽奖前规则过滤 userId: 101 ruleModel: rule_weight code: 0001 info: 接管；后续的流程，受规则引擎执行结果影响
+24-07-24.15:07:43.718 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:07:43.728 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.15:07:58.433 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 5464 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:07:58.434 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:07:59.194 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:07:59.196 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:07:59.223 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+24-07-24.15:08:00.393 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:08:00.987 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:08:01.063 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:08:03.459 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:08:03.512 [main            ] INFO  ApiTest                - Started ApiTest in 5.495 seconds (JVM running for 6.317)
+24-07-24.15:08:03.891 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:08:04.145 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:08:04.523 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:08:04.532 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.15:08:58.622 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 25944 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:08:58.623 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:08:59.400 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:08:59.403 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:08:59.434 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+24-07-24.15:09:00.643 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:09:01.227 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:09:01.303 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:09:03.636 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:09:03.690 [main            ] INFO  ApiTest                - Started ApiTest in 5.478 seconds (JVM running for 6.267)
+24-07-24.15:09:04.067 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:09:04.309 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:09:04.685 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:09:04.694 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.15:09:48.971 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 24912 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.15:09:48.972 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.15:09:49.720 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.15:09:49.723 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.15:09:49.749 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+24-07-24.15:09:50.893 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.15:09:51.472 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:09:51.544 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.15:09:53.953 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.15:09:54.003 [main            ] INFO  ApiTest                - Started ApiTest in 5.458 seconds (JVM running for 6.234)
+24-07-24.15:09:54.378 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.15:09:54.628 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.15:09:55.005 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.15:09:55.014 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:23:17.078 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 27508 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:23:17.080 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:23:17.829 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:23:17.832 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:23:17.861 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+24-07-24.18:23:19.042 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:23:19.620 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:23:19.686 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:23:22.054 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:23:22.103 [main            ] INFO  ApiTest                - Started ApiTest in 5.452 seconds (JVM running for 6.276)
+24-07-24.18:23:22.454 [redisson-netty-1-4] ERROR ErrorsLoggingHandler   - Exception occured. Channel: [id: 0x647d186e, L:/127.0.0.1:6798 - R:localhost/127.0.0.1:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+24-07-24.18:23:22.454 [redisson-netty-1-19] ERROR ErrorsLoggingHandler   - Exception occured. Channel: [id: 0x3f3a3e0f, L:/127.0.0.1:6821 - R:localhost/127.0.0.1:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+24-07-24.18:29:27.444 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 29804 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:29:27.445 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:29:28.207 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:29:28.209 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:29:28.238 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.18:29:29.407 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:29:29.993 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:29:30.078 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:29:32.391 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:29:32.438 [main            ] INFO  ApiTest                - Started ApiTest in 5.405 seconds (JVM running for 6.218)
+24-07-24.18:29:32.818 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:29:33.066 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:29:33.099 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:29:33.123 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:29:33.126 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:30:32.561 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 4292 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:30:32.562 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:30:33.354 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:30:33.356 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:30:33.386 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.18:30:34.678 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:30:35.330 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:30:35.407 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:30:38.035 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:30:38.096 [main            ] INFO  ApiTest                - Started ApiTest in 5.945 seconds (JVM running for 7.236)
+24-07-24.18:30:38.512 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:30:38.783 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:30:38.816 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:34:10.797 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m2s13ms702µs500ns).
+24-07-24.18:34:10.835 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:34:10.840 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:34:19.316 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 13596 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:34:19.317 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:34:20.109 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:34:20.112 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:34:20.140 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.18:34:21.444 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:34:22.027 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:34:22.104 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:34:24.688 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:34:24.746 [main            ] INFO  ApiTest                - Started ApiTest in 5.972 seconds (JVM running for 6.934)
+24-07-24.18:34:25.154 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:34:25.420 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:34:25.453 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:34:25.485 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:34:25.488 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:35:02.216 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 16044 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:35:02.218 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:35:02.989 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:35:02.993 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:35:03.026 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+24-07-24.18:35:04.183 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:35:04.763 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:35:04.829 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:35:07.178 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:35:07.227 [main            ] INFO  ApiTest                - Started ApiTest in 5.424 seconds (JVM running for 6.227)
+24-07-24.18:35:07.602 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:35:07.869 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:35:07.899 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:35:07.932 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:35:07.935 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:36:28.832 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 30264 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:36:28.833 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:36:29.608 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:36:29.611 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:36:29.641 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+24-07-24.18:36:30.841 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:36:31.435 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:36:31.521 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:36:33.899 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:36:33.948 [main            ] INFO  ApiTest                - Started ApiTest in 5.562 seconds (JVM running for 6.386)
+24-07-24.18:36:34.318 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:36:34.572 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:36:34.633 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:36:34.635 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:37:23.896 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 100 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:37:23.897 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:37:24.673 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:37:24.675 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:37:24.705 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.18:37:25.891 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:37:26.480 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:37:26.544 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:37:28.988 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:37:29.040 [main            ] INFO  ApiTest                - Started ApiTest in 5.62 seconds (JVM running for 6.46)
+24-07-24.18:37:29.435 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:37:29.692 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:37:29.722 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:37:29.753 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:37:29.756 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:38:43.591 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 30900 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:38:43.592 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:38:44.415 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:38:44.418 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:38:44.449 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+24-07-24.18:38:45.733 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:38:46.343 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:38:46.428 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:38:49.087 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:38:49.147 [main            ] INFO  ApiTest                - Started ApiTest in 6.067 seconds (JVM running for 7.034)
+24-07-24.18:38:49.590 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:38:49.866 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:38:49.898 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:40:36.578 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m40s119ms573µs700ns).
+24-07-24.18:40:36.668 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:40:36.675 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:40:43.726 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 32376 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:40:43.728 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:40:44.469 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:40:44.471 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:40:44.503 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 0 Redis repository interfaces.
+24-07-24.18:40:45.680 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:40:46.269 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:40:46.346 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:40:48.684 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:40:48.732 [main            ] INFO  ApiTest                - Started ApiTest in 5.446 seconds (JVM running for 6.267)
+24-07-24.18:40:49.114 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:40:49.380 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:40:49.417 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:40:49.439 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:40:49.442 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:41:17.760 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 24752 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:41:17.762 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:41:18.553 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:41:18.556 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:41:18.589 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+24-07-24.18:41:19.886 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:41:20.507 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:41:20.580 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:41:23.218 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:41:23.280 [main            ] INFO  ApiTest                - Started ApiTest in 6.038 seconds (JVM running for 6.983)
+24-07-24.18:41:23.719 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:41:24.002 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:41:24.034 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:42:11.968 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s743ms287µs).
+24-07-24.18:42:12.000 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:42:12.031 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:49:23.505 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 10008 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:49:23.506 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:49:24.260 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:49:24.263 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:49:24.291 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.18:49:25.445 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:49:26.012 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:49:26.078 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:49:28.432 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:49:28.480 [main            ] INFO  ApiTest                - Started ApiTest in 5.402 seconds (JVM running for 6.231)
+24-07-24.18:49:28.846 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:49:29.100 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:49:29.130 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:49:29.163 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:49:29.166 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:50:11.492 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 24592 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:50:11.493 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:50:12.278 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:50:12.280 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:50:12.311 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.18:50:13.559 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:50:14.172 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:50:14.244 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:50:16.862 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:50:16.929 [main            ] INFO  ApiTest                - Started ApiTest in 5.918 seconds (JVM running for 6.867)
+24-07-24.18:50:17.375 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:50:17.642 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:50:17.675 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.18:50:42.580 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s937ms675µs400ns).
+24-07-24.18:52:21.002 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m38s421ms736µs900ns).
+24-07-24.18:52:21.091 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:52:21.111 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:53:00.765 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 11772 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:53:00.766 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:53:01.560 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:53:01.563 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:53:01.594 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+24-07-24.18:53:02.855 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:53:03.455 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:53:03.534 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:53:06.142 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:53:06.202 [main            ] INFO  ApiTest                - Started ApiTest in 5.942 seconds (JVM running for 6.834)
+24-07-24.18:53:06.601 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.18:53:06.894 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.18:53:06.997 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.18:53:07.021 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.18:53:59.606 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 34716 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:53:59.607 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:54:00.372 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:54:00.374 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:54:00.403 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.18:54:01.557 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:54:02.137 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:54:02.210 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:54:04.574 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:54:04.621 [main            ] INFO  ApiTest                - Started ApiTest in 5.452 seconds (JVM running for 6.235)
+24-07-24.18:54:37.503 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 31440 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:54:37.504 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:54:38.313 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:54:38.316 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:54:38.349 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+24-07-24.18:54:39.652 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:54:40.267 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:54:40.345 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:54:43.015 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:54:43.082 [main            ] INFO  ApiTest                - Started ApiTest in 6.088 seconds (JVM running for 7.02)
+24-07-24.18:59:24.983 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 4884 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.18:59:24.984 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.18:59:25.766 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.18:59:25.769 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.18:59:25.800 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+24-07-24.18:59:27.036 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.18:59:27.623 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:59:27.698 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.18:59:30.282 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.18:59:30.350 [main            ] INFO  ApiTest                - Started ApiTest in 5.895 seconds (JVM running for 6.812)
+24-07-24.19:00:30.446 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 18148 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:00:30.447 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:00:31.252 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:00:31.255 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:00:31.286 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+24-07-24.19:00:32.569 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:00:33.148 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:00:33.231 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:00:35.827 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:00:35.887 [main            ] INFO  ApiTest                - Started ApiTest in 5.916 seconds (JVM running for 6.848)
+24-07-24.19:01:04.535 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:01:04.574 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:01:04.851 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:01:04.883 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:01:04.884 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:01:30.105 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:01:30.114 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:01:51.280 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 1512 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:01:51.281 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:01:52.024 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:01:52.026 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:01:52.055 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+24-07-24.19:01:53.202 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:01:53.790 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:01:53.867 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:01:56.240 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:01:56.287 [main            ] INFO  ApiTest                - Started ApiTest in 5.434 seconds (JVM running for 6.243)
+24-07-24.19:01:56.651 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:01:56.900 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:02:00.653 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:02:00.664 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:02:10.988 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 33308 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:02:10.989 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:02:11.729 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:02:11.731 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:02:11.760 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.19:02:12.936 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:02:13.503 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:02:13.570 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:02:15.934 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:02:15.981 [main            ] INFO  ApiTest                - Started ApiTest in 5.409 seconds (JVM running for 6.218)
+24-07-24.19:02:16.324 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:02:16.350 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:02:16.595 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:02:16.625 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:02:16.627 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:02:16.656 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:02:16.660 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:07:29.347 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 26520 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:07:29.348 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:07:30.131 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:07:30.134 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:07:30.163 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+24-07-24.19:07:31.507 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:07:32.127 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:07:32.201 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:07:34.905 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:07:34.967 [main            ] INFO  ApiTest                - Started ApiTest in 6.106 seconds (JVM running for 7.084)
+24-07-24.19:07:39.821 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:07:39.853 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:07:40.141 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:07:40.174 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:07:40.176 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:08:22.318 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:08:22.337 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:08:50.367 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 25108 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:08:50.368 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:08:51.120 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:08:51.123 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:08:51.152 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.19:08:52.327 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:08:52.907 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:08:52.973 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:08:55.302 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:08:55.358 [main            ] INFO  ApiTest                - Started ApiTest in 5.402 seconds (JVM running for 6.204)
+24-07-24.19:08:55.710 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:08:55.739 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:08:56.001 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:08:56.036 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:08:56.038 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:08:56.069 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:08:56.072 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:09:06.075 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 4432 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:09:06.075 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:09:06.824 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:09:06.827 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:09:06.855 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.19:09:08.019 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:09:08.613 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:09:08.693 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:09:11.042 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:09:11.088 [main            ] INFO  ApiTest                - Started ApiTest in 5.42 seconds (JVM running for 6.196)
+24-07-24.19:09:11.435 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:09:11.460 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:09:11.712 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:09:11.742 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:09:11.744 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:09:11.775 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:09:11.777 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:11:34.928 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 1372 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:11:34.929 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:11:35.716 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:11:35.719 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:11:35.749 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+24-07-24.19:11:36.944 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:11:37.538 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:11:37.606 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:11:40.033 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:11:40.084 [main            ] INFO  ApiTest                - Started ApiTest in 5.576 seconds (JVM running for 6.352)
+24-07-24.19:11:40.443 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:11:40.473 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:11:40.726 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:11:40.757 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:11:40.759 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:11:40.788 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:11:40.791 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:12:17.269 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 1296 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:12:17.270 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:12:18.019 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:12:18.022 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:12:18.049 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.19:12:19.196 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:12:19.783 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:12:19.848 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:12:22.184 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:12:22.231 [main            ] INFO  ApiTest                - Started ApiTest in 5.385 seconds (JVM running for 6.159)
+24-07-24.19:12:22.582 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:12:22.610 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:12:22.859 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:12:22.890 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:12:22.892 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:12:22.923 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:12:22.926 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:15:59.060 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 1676 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:15:59.061 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:15:59.858 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:15:59.860 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:15:59.888 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.19:16:01.145 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:16:01.739 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:16:01.808 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:16:04.333 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:16:04.399 [main            ] INFO  ApiTest                - Started ApiTest in 5.861 seconds (JVM running for 6.75)
+24-07-24.19:16:04.809 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:16:04.840 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:16:05.111 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:16:05.142 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:16:05.144 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:16:18.237 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:16:18.250 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:17:42.788 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 16444 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:17:42.790 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:17:43.544 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:17:43.547 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:17:43.575 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.19:17:44.734 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:17:45.313 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:17:45.379 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:17:47.747 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:17:47.794 [main            ] INFO  ApiTest                - Started ApiTest in 5.422 seconds (JVM running for 6.204)
+24-07-24.19:17:48.175 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:17:48.429 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:17:51.740 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:17:51.780 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:19:35.841 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 26648 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:19:35.842 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:19:36.637 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:19:36.639 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:19:36.669 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.19:19:37.902 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:19:38.500 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:19:38.578 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:19:41.178 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:19:41.237 [main            ] INFO  ApiTest                - Started ApiTest in 5.879 seconds (JVM running for 6.786)
+24-07-24.19:19:41.657 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:19:41.689 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:19:41.974 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:19:42.008 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:19:42.010 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:20:29.587 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:20:29.606 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-24.19:20:29.623 [redisson-netty-1-9] ERROR ErrorsLoggingHandler   - Exception occured. Channel: [id: 0x24932415, L:/127.0.0.1:10656 - R:localhost/127.0.0.1:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+24-07-24.19:20:35.533 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 20496 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-24.19:20:35.534 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-24.19:20:36.330 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-24.19:20:36.333 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-24.19:20:36.363 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-07-24.19:20:37.657 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-24.19:20:38.262 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:20:38.337 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-24.19:20:40.938 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-24.19:20:40.997 [main            ] INFO  ApiTest                - Started ApiTest in 5.95 seconds (JVM running for 6.829)
+24-07-24.19:20:41.414 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单开始 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:20:41.443 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-24.19:20:41.726 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-24.19:20:41.758 [main            ] INFO  BackListLogicChain     - 抽奖责任链-黑名单放行 userId:101 strategyId:10001 reuleModel:rule_blacklist
+24-07-24.19:20:41.760 [main            ] INFO  RuleWeightLoginChain   - 抽奖责任链--权重接管 userId:101 strategyId:10001 reuleModel:rule_weight
+24-07-24.19:20:54.918 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-24.19:20:54.924 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.

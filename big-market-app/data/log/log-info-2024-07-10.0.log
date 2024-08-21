@@ -1,0 +1,306 @@
+24-07-10.00:00:25.860 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 16716 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:00:25.861 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:00:26.674 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:00:26.677 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:00:26.702 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+24-07-10.00:00:27.938 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:00:28.524 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:00:28.590 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:00:31.106 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:00:31.167 [main            ] INFO  ApiTest                - Started ApiTest in 5.827 seconds (JVM running for 6.725)
+24-07-10.00:00:31.533 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:00:31.816 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:00:49.903 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:00:49.917 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:01:11.434 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 1324 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:01:11.435 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:01:12.240 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:01:12.243 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:01:12.270 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+24-07-10.00:01:13.535 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:01:14.116 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:01:14.181 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:01:16.789 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:01:16.852 [main            ] INFO  ApiTest                - Started ApiTest in 5.953 seconds (JVM running for 6.941)
+24-07-10.00:01:17.198 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:01:17.466 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:02:01.916 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:02:01.926 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:02:17.842 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 8888 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:02:17.843 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:02:18.621 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:02:18.624 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:02:18.649 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.00:02:19.875 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:02:20.476 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:02:20.547 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:02:23.155 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:02:23.218 [main            ] INFO  ApiTest                - Started ApiTest in 5.893 seconds (JVM running for 6.806)
+24-07-10.00:02:23.591 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:02:23.865 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:03:32.651 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m8s676ms859µs800ns).
+24-07-10.00:03:34.090 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:03:34.103 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:03:38.453 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 4296 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:03:38.453 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:03:39.223 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:03:39.226 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:03:39.252 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.00:03:40.491 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:03:41.062 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:03:41.126 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:03:43.704 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:03:43.779 [main            ] INFO  ApiTest                - Started ApiTest in 5.841 seconds (JVM running for 6.771)
+24-07-10.00:03:44.178 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:03:44.462 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:04:20.972 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:04:20.982 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:06:35.874 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 13784 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:06:35.875 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:06:36.700 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:06:36.703 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:06:36.734 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+24-07-10.00:06:37.963 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:06:38.574 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:06:38.649 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:06:41.247 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:06:41.306 [main            ] INFO  ApiTest                - Started ApiTest in 5.952 seconds (JVM running for 6.943)
+24-07-10.00:06:41.682 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:06:41.966 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:07:44.377 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m2s298ms15µs).
+24-07-10.00:07:44.405 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:07:44.415 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:09:02.208 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 5996 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:09:02.209 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:09:02.974 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:09:02.978 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:09:03.005 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.00:09:04.263 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:09:04.844 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:09:04.912 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:09:07.506 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:09:07.566 [main            ] INFO  ApiTest                - Started ApiTest in 5.899 seconds (JVM running for 6.869)
+24-07-10.00:09:07.982 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:09:08.291 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:12:31.512 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m23s118ms793µs900ns).
+24-07-10.00:23:47.504 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m15s992ms769µs700ns).
+24-07-10.00:23:47.537 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:23:47.548 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:23:51.468 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 18096 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:23:51.469 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:23:52.223 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:23:52.226 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:23:52.250 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.00:23:53.491 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:23:54.074 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:23:54.140 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:23:56.682 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:23:56.740 [main            ] INFO  ApiTest                - Started ApiTest in 5.787 seconds (JVM running for 6.757)
+24-07-10.00:23:57.112 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:23:57.394 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:33:07.264 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m9s760ms250µs).
+24-07-10.00:33:07.297 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:33:07.307 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:46:26.614 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 4700 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:46:26.615 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:46:27.387 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:46:27.390 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:46:27.415 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.00:46:28.672 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:46:29.259 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:46:29.329 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:46:31.906 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:46:31.969 [main            ] INFO  ApiTest                - Started ApiTest in 5.89 seconds (JVM running for 6.858)
+24-07-10.00:46:35.565 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:46:35.866 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:47:04.776 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58s910ms416µs100ns).
+24-07-10.00:47:07.502 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:47:07.512 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:48:04.012 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 18172 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:48:04.013 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:48:04.745 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:48:04.747 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:48:04.772 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+24-07-10.00:48:05.927 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:48:06.513 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:48:06.586 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:48:08.951 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:48:09.001 [main            ] INFO  ApiTest                - Started ApiTest in 5.403 seconds (JVM running for 6.246)
+24-07-10.00:48:09.375 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:48:09.635 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:48:16.039 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:48:16.047 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:51:13.066 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 12940 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:51:13.067 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:51:13.837 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:51:13.840 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:51:13.866 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+24-07-10.00:51:15.122 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:51:15.701 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:51:15.766 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:51:18.271 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:51:18.329 [main            ] INFO  ApiTest                - Started ApiTest in 5.762 seconds (JVM running for 6.742)
+24-07-10.00:51:21.798 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:51:22.067 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:51:45.286 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:51:45.297 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:51:48.927 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 12548 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:51:48.928 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:51:49.698 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:51:49.701 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:51:49.723 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+24-07-10.00:51:50.964 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:51:51.559 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:51:51.633 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:51:54.224 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:51:54.306 [main            ] INFO  ApiTest                - Started ApiTest in 5.879 seconds (JVM running for 6.848)
+24-07-10.00:51:57.747 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:51:58.034 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:51:58.124 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:51:58.127 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.00:58:16.799 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 8076 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.00:58:16.800 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.00:58:17.587 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.00:58:17.590 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.00:58:17.615 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.00:58:18.862 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.00:58:19.470 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:58:19.543 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.00:58:22.100 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.00:58:22.157 [main            ] INFO  ApiTest                - Started ApiTest in 5.865 seconds (JVM running for 6.805)
+24-07-10.00:58:25.977 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.00:58:26.282 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.00:59:08.683 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m12s400ms746µs200ns).
+24-07-10.00:59:08.718 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.00:59:08.723 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.01:06:51.824 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 1644 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.01:06:51.825 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.01:06:52.548 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.01:06:52.550 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.01:06:52.577 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+24-07-10.01:06:53.740 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.01:06:54.330 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.01:06:54.402 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.01:06:56.882 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.01:06:56.931 [main            ] INFO  ApiTest                - Started ApiTest in 5.536 seconds (JVM running for 6.349)
+24-07-10.01:06:57.301 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.01:06:57.569 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.01:07:24.942 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 16432 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.01:07:24.943 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.01:07:25.721 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.01:07:25.723 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.01:07:25.749 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.01:07:26.969 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.01:07:27.575 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.01:07:27.652 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.01:07:30.217 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.01:07:30.299 [main            ] INFO  ApiTest                - Started ApiTest in 5.844 seconds (JVM running for 6.851)
+24-07-10.01:07:30.668 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.01:07:30.949 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.01:07:34.649 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.01:07:34.656 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.09:52:06.785 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 16444 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.09:52:06.786 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.09:52:07.557 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.09:52:07.560 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.09:52:07.585 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.09:52:08.806 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.09:52:09.413 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.09:52:09.487 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.09:52:12.135 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.09:52:12.193 [main            ] INFO  ApiTest                - Started ApiTest in 5.868 seconds (JVM running for 6.801)
+24-07-10.09:52:12.634 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.09:52:12.936 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.09:52:16.645 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.09:52:16.655 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.10:43:14.847 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 7352 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.10:43:14.848 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.10:43:15.624 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.10:43:15.627 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.10:43:15.651 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.10:43:16.898 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.10:43:17.494 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.10:43:17.581 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.10:43:20.182 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.10:43:20.244 [main            ] INFO  ApiTest                - Started ApiTest in 5.8 seconds (JVM running for 7.227)
+24-07-10.10:43:20.715 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.10:43:21.013 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.10:44:49.871 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m21s784ms412µs500ns).
+24-07-10.10:47:14.228 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m24s357ms166µs).
+24-07-10.10:48:07.218 [HikariPool-1 housekeeper] WARN  HikariPool             - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s991ms48µs300ns).
+24-07-10.10:48:08.252 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.10:48:08.262 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.11:12:34.231 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 16880 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.11:12:34.232 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.11:12:35.023 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.11:12:35.026 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.11:12:35.051 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.11:12:36.210 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.11:12:36.802 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:12:36.878 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:12:39.288 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.11:12:39.338 [main            ] INFO  ApiTest                - Started ApiTest in 5.539 seconds (JVM running for 6.342)
+24-07-10.11:15:18.477 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 15784 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.11:15:18.478 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.11:15:19.264 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.11:15:19.266 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.11:15:19.290 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.11:15:20.462 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.11:15:21.031 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:15:21.114 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:15:23.508 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.11:15:23.562 [main            ] INFO  ApiTest                - Started ApiTest in 5.535 seconds (JVM running for 6.346)
+24-07-10.11:16:11.118 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 15796 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.11:16:11.120 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.11:16:11.889 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.11:16:11.892 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.11:16:11.915 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.11:16:13.080 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.11:16:13.651 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:16:13.726 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:16:16.081 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.11:16:16.131 [main            ] INFO  ApiTest                - Started ApiTest in 5.429 seconds (JVM running for 6.256)
+24-07-10.11:25:39.919 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 4332 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.11:25:39.921 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.11:25:40.704 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.11:25:40.708 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.11:25:40.736 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.11:25:41.979 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.11:25:42.548 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:25:42.632 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:25:45.018 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.11:25:45.069 [main            ] INFO  ApiTest                - Started ApiTest in 5.586 seconds (JVM running for 6.413)
+24-07-10.11:26:44.787 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 12460 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.11:26:44.788 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.11:26:45.579 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.11:26:45.581 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.11:26:45.609 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.11:26:46.809 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.11:26:47.392 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:26:47.469 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:26:49.846 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.11:26:49.896 [main            ] INFO  ApiTest                - Started ApiTest in 5.56 seconds (JVM running for 6.386)
+24-07-10.11:26:50.283 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-10.11:26:50.549 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-10.11:26:54.099 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-10.11:26:54.115 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-10.11:27:39.854 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 16400 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.11:27:39.855 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.11:27:40.652 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.11:27:40.655 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.11:27:40.679 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+24-07-10.11:27:41.864 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.11:27:42.438 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:27:42.509 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:27:44.841 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.11:27:44.890 [main            ] INFO  ApiTest                - Started ApiTest in 5.464 seconds (JVM running for 6.279)
+24-07-10.11:33:02.010 [main            ] INFO  ApiTest                - Starting ApiTest using Java 11.0.6 on LAPTOP-980JHL67 with PID 14452 (started by Lenovo in F:\springboot\big-market\big-market\big-market-app)
+24-07-10.11:33:02.012 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-07-10.11:33:02.777 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-10.11:33:02.779 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-10.11:33:02.802 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-07-10.11:33:03.953 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-10.11:33:04.516 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:33:04.586 [redisson-netty-1-20] INFO  ConnectionsHolder      - 24 connections initialized for localhost/127.0.0.1:6379
+24-07-10.11:33:06.913 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-10.11:33:06.964 [main            ] INFO  ApiTest                - Started ApiTest in 5.364 seconds (JVM running for 6.157)

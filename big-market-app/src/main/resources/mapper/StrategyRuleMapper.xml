@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.bugstack.infrastructure.persistent.dao.StrategyRuleMapper">
+
+
+    <select id="queryStrategyRuleWeight" resultType="cn.bugstack.infrastructure.persistent.po.StrategyRule">
+        select * from strategy_rule where strategy_id=#{strategyId} and rule_model=#{ruleModel}
+    </select>
+    <select id="queryStrategyRuleValue" resultType="java.lang.String">
+        select rule_value from  strategy_rule
+        <where>
+            <if test="awardId != null">
+                and award_id=#{awardId}
+            </if>
+            and strategy_id=#{strategyId}
+            and rule_model=#{ruleModel}
+        </where>
+    </select>
+    <select id="queryStrategyRuleModels"
+            resultType="cn.bugstack.domain.straetgy.model.valobj.StrategyAwardRuleModelVo">
+        select rule_models from
+        strategy_award where strategy_id=#{strategyId} and award_id = #{awardId}
+    </select>
+</mapper>
